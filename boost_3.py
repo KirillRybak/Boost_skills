@@ -7,4 +7,4 @@ while True:
         if num==1:
             print("Самый большой простой делитель: ", j)
             break
-    j+=1
+    j = j+1
