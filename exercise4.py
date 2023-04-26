@@ -11,7 +11,6 @@ def hello():
                 num=num//10
                 if pol == end_num:
                     print(i,'*',j,'=',end_num)
-
 hello()
 
 
